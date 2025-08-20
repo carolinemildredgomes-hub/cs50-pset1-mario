@@ -49,6 +49,17 @@ Height: 4
 
 
 
+# CS50 Pset1 — Mario
+
+This repository contains my solutions for CS50’s Problem Set 1: Mario.
+
+## Mario (More)
+
+Double pyramid with gap of 2 spaces
+
+### Code
+```c 
+
 
 #include <cs50.h>
 #include <stdio.h>
